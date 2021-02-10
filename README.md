@@ -1,2 +1,2 @@
 # ruarimahon.com
-static html/css with tailwind
+static html/css with tailwindcss
